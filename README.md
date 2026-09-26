@@ -1,3 +1,5 @@
+![New Ultra Media Banner](NEW_ULTA_MEDIA_developer_header_4096x2304.jpg)
+
 # NEW ULTRA MEDIA
 ### Crafting Powerful Apps
 
