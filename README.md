@@ -17,11 +17,11 @@ NEW ULTRA MEDIA builds fast, reliable, and powerful Android apps to simplify you
 * **Get it on Google Play:** [Download All Video Player](https://play.google.com/store/apps/details?id=com.allvideoplayer.app)
 
 ---
+📱APK Installer – Easy Install
 
-APK Installer – Easy Install
 Fast and simple APK manager for installing, updating, and managing APK, APKS, and XAPK files. Quickly scan your storage, find APKs, detect available updates, and view app details, permissions, and security information—all in one convenient place.
 
-* **Get it on Google Play:** [Download All Video Player](https://play.google.com/store/apps/details?id=com.apkinstaller.app
+* **Get it on Google Play:** [Download Apk Installer](https://play.google.com/store/apps/details?id=com.apkinstaller.app)
 
 ---
 
